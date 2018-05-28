@@ -1,1 +1,2 @@
-ls / | wc -1
+find ~/ -type f | wc -1
+
